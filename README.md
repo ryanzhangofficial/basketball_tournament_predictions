@@ -11,14 +11,16 @@ This repository contains our work for the Wharton Data Science Competition. To m
 #### 1. Cloning the Repository
   ```bash
   git clone https://github.com/ryanzhangofficial/basketball_tournament_predictions
-  cd <repo-name>```
+  cd <repo-name>
+  ```
 
 #### 2. Creating a New Branch
 
 Always work in a separate branch before merging into `main`. Use descriptive branch names:
 
   ```bash
-  git checkout -b feature-<description>```
+  git checkout -b feature-<description>
+  ```
 
 #### 3. Adding & Committing Changes
 
@@ -35,7 +37,8 @@ Follow this structure when committing changes:
 
 After committing, push your branch to the remote repository:
   ```bash
-  git push origin <branch-name>```
+  git push origin <branch-name>
+  ```
 
 #### 5. Creating a Pull Request
 
