@@ -11,7 +11,7 @@ This repository contains our work for the Wharton Data Science Competition. To m
 #### 1. Cloning the Repository
   ```bash
   git clone https://github.com/ryanzhangofficial/basketball_tournament_predictions
-  cd <repo-name>
+  cd basketball_tournament_predictions
   ```
 
 #### 2. Adding & Committing Changes
