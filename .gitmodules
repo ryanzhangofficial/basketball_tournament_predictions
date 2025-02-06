@@ -1,0 +1,3 @@
+[submodule "submodules/yifanjiang-basketball"]
+	path = submodules/yifanjiang-basketball
+	url = https://github.com/shawn-0123/yifanjiang-basketball
