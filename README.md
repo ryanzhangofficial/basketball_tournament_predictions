@@ -1,5 +1,7 @@
 # Wharton Data Science Competition
 
+Update 3/27/25: We were selected as Finalists for the 2025 competition! (Top 5 out of 500 Teams!)
+
 This repository contains our work for the Wharton Data Science Competition. To maintain a clean and organized workflow, please follow the Git conventions below.
 
 ---
